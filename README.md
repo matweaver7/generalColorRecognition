@@ -1,0 +1,1 @@
+This project objective is to do color recognition. It is a learning tool using the K Nearest Neighbor algorithm.
